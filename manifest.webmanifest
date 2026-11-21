@@ -1,0 +1,11 @@
+{
+  "name": "Fairway — Golfjournal",
+  "short_name": "Fairway",
+  "description": "Scorekort, golfdagbok och statistik på ett ställe",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#071b17",
+  "theme_color": "#071b17",
+  "icons": [{ "src": "golf-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}

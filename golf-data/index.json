@@ -1,0 +1,558 @@
+{
+  "source": "OpenStreetMap export.geojson; ODbL",
+  "timestamp": "2026-11-20T12:52:51Z",
+  "courses": [
+    {
+      "id": "osm-node-415395765",
+      "name": "Bryttsätter Golfklubb",
+      "osmId": "node/415395765",
+      "holes": 0,
+      "par": null,
+      "center": [
+        16.118215,
+        58.4704893
+      ],
+      "counts": {
+        "courseId": "osm-node-415395765",
+        "name": "Bryttsätter Golfklubb",
+        "osmId": "node/415395765",
+        "holes": 0,
+        "greens": 0,
+        "tees": 0,
+        "bunkers": 0,
+        "waterHazards": 0,
+        "completeHoles": 0,
+        "needsManualReview": 0
+      }
+    },
+    {
+      "id": "osm-relation-2624162",
+      "name": "Bråvikens Golfklubb",
+      "osmId": "relation/2624162",
+      "holes": 0,
+      "par": null,
+      "center": [
+        16.32239350952381,
+        58.602442576190484
+      ],
+      "counts": {
+        "courseId": "osm-relation-2624162",
+        "name": "Bråvikens Golfklubb",
+        "osmId": "relation/2624162",
+        "holes": 0,
+        "greens": 0,
+        "tees": 0,
+        "bunkers": 0,
+        "waterHazards": 0,
+        "completeHoles": 0,
+        "needsManualReview": 0
+      }
+    },
+    {
+      "id": "osm-way-1519717514",
+      "name": "Bråvikens Golfklubb",
+      "osmId": "way/1519717514",
+      "holes": 36,
+      "par": null,
+      "center": [
+        16.32183314634146,
+        58.60633801463414
+      ],
+      "counts": {
+        "courseId": "osm-way-1519717514",
+        "name": "Bråvikens Golfklubb",
+        "osmId": "way/1519717514",
+        "holes": 36,
+        "greens": 36,
+        "tees": 0,
+        "bunkers": 84,
+        "waterHazards": 6,
+        "completeHoles": 0,
+        "needsManualReview": 36
+      }
+    },
+    {
+      "id": "osm-way-313256523",
+      "name": "Finspångs Golfklubb",
+      "osmId": "way/313256523",
+      "holes": 0,
+      "par": null,
+      "center": [
+        15.823704565034964,
+        58.69480058741259
+      ],
+      "counts": {
+        "courseId": "osm-way-313256523",
+        "name": "Finspångs Golfklubb",
+        "osmId": "way/313256523",
+        "holes": 0,
+        "greens": 0,
+        "tees": 0,
+        "bunkers": 0,
+        "waterHazards": 0,
+        "completeHoles": 0,
+        "needsManualReview": 0
+      }
+    },
+    {
+      "id": "osm-way-202014678",
+      "name": "Flemminge GK",
+      "osmId": "way/202014678",
+      "holes": 9,
+      "par": null,
+      "center": [
+        15.032123463461538,
+        58.19605098269231
+      ],
+      "counts": {
+        "courseId": "osm-way-202014678",
+        "name": "Flemminge GK",
+        "osmId": "way/202014678",
+        "holes": 9,
+        "greens": 9,
+        "tees": 7,
+        "bunkers": 35,
+        "waterHazards": 0,
+        "completeHoles": 8,
+        "needsManualReview": 1
+      }
+    },
+    {
+      "id": "osm-relation-7622455",
+      "name": "Golfbana relation/7622455",
+      "osmId": "relation/7622455",
+      "holes": 0,
+      "par": null,
+      "center": [
+        16.093535844214877,
+        58.553751512396694
+      ],
+      "counts": {
+        "courseId": "osm-relation-7622455",
+        "name": "Golfbana relation/7622455",
+        "osmId": "relation/7622455",
+        "holes": 0,
+        "greens": 0,
+        "tees": 0,
+        "bunkers": 0,
+        "waterHazards": 0,
+        "completeHoles": 0,
+        "needsManualReview": 0
+      }
+    },
+    {
+      "id": "osm-way-1083250765",
+      "name": "Golfbana way/1083250765",
+      "osmId": "way/1083250765",
+      "holes": 0,
+      "par": null,
+      "center": [
+        16.756239533333332,
+        58.184800933333335
+      ],
+      "counts": {
+        "courseId": "osm-way-1083250765",
+        "name": "Golfbana way/1083250765",
+        "osmId": "way/1083250765",
+        "holes": 0,
+        "greens": 0,
+        "tees": 0,
+        "bunkers": 0,
+        "waterHazards": 0,
+        "completeHoles": 0,
+        "needsManualReview": 0
+      }
+    },
+    {
+      "id": "osm-way-1083250771",
+      "name": "Golfbana way/1083250771",
+      "osmId": "way/1083250771",
+      "holes": 0,
+      "par": null,
+      "center": [
+        16.75766153448276,
+        58.18429319655173
+      ],
+      "counts": {
+        "courseId": "osm-way-1083250771",
+        "name": "Golfbana way/1083250771",
+        "osmId": "way/1083250771",
+        "holes": 0,
+        "greens": 0,
+        "tees": 0,
+        "bunkers": 0,
+        "waterHazards": 0,
+        "completeHoles": 0,
+        "needsManualReview": 0
+      }
+    },
+    {
+      "id": "osm-way-852548159",
+      "name": "Golfbana way/852548159",
+      "osmId": "way/852548159",
+      "holes": 0,
+      "par": null,
+      "center": [
+        16.772623445789474,
+        58.18547245
+      ],
+      "counts": {
+        "courseId": "osm-way-852548159",
+        "name": "Golfbana way/852548159",
+        "osmId": "way/852548159",
+        "holes": 0,
+        "greens": 0,
+        "tees": 0,
+        "bunkers": 0,
+        "waterHazards": 0,
+        "completeHoles": 0,
+        "needsManualReview": 0
+      }
+    },
+    {
+      "id": "osm-relation-1723097",
+      "name": "Ingelsta Stadium Golf",
+      "osmId": "relation/1723097",
+      "holes": 0,
+      "par": "46",
+      "center": [
+        16.168667668316832,
+        58.62950597821782
+      ],
+      "counts": {
+        "courseId": "osm-relation-1723097",
+        "name": "Ingelsta Stadium Golf",
+        "osmId": "relation/1723097",
+        "holes": 0,
+        "greens": 0,
+        "tees": 0,
+        "bunkers": 0,
+        "waterHazards": 0,
+        "completeHoles": 0,
+        "needsManualReview": 0
+      }
+    },
+    {
+      "id": "osm-way-47050742",
+      "name": "Landeryds Golfklubb",
+      "osmId": "way/47050742",
+      "holes": 44,
+      "par": null,
+      "center": [
+        15.715519764948455,
+        58.35854377938144
+      ],
+      "counts": {
+        "courseId": "osm-way-47050742",
+        "name": "Landeryds Golfklubb",
+        "osmId": "way/47050742",
+        "holes": 44,
+        "greens": 31,
+        "tees": 79,
+        "bunkers": 58,
+        "waterHazards": 31,
+        "completeHoles": 0,
+        "needsManualReview": 44
+      }
+    },
+    {
+      "id": "osm-way-361205880",
+      "name": "Landeryds Golfklubb - Vesterbybanan",
+      "osmId": "way/361205880",
+      "holes": 0,
+      "par": "71",
+      "center": [
+        15.673436216949153,
+        58.23850881864407
+      ],
+      "counts": {
+        "courseId": "osm-way-361205880",
+        "name": "Landeryds Golfklubb - Vesterbybanan",
+        "osmId": "way/361205880",
+        "holes": 0,
+        "greens": 0,
+        "tees": 0,
+        "bunkers": 0,
+        "waterHazards": 0,
+        "completeHoles": 0,
+        "needsManualReview": 0
+      }
+    },
+    {
+      "id": "osm-relation-3725202",
+      "name": "Linköpings Golfklubb",
+      "osmId": "relation/3725202",
+      "holes": 18,
+      "par": "71",
+      "center": [
+        15.564904372881355,
+        58.401352952542375
+      ],
+      "counts": {
+        "courseId": "osm-relation-3725202",
+        "name": "Linköpings Golfklubb",
+        "osmId": "relation/3725202",
+        "holes": 18,
+        "greens": 20,
+        "tees": 4,
+        "bunkers": 51,
+        "waterHazards": 3,
+        "completeHoles": 3,
+        "needsManualReview": 15
+      }
+    },
+    {
+      "id": "osm-way-297550172",
+      "name": "Mauritzberg",
+      "osmId": "way/297550172",
+      "holes": 2,
+      "par": null,
+      "center": [
+        16.668163968085107,
+        58.60145034468085
+      ],
+      "counts": {
+        "courseId": "osm-way-297550172",
+        "name": "Mauritzberg",
+        "osmId": "way/297550172",
+        "holes": 2,
+        "greens": 5,
+        "tees": 11,
+        "bunkers": 5,
+        "waterHazards": 0,
+        "completeHoles": 1,
+        "needsManualReview": 1
+      }
+    },
+    {
+      "id": "osm-relation-18504788",
+      "name": "Mjölby Golfklubb",
+      "osmId": "relation/18504788",
+      "holes": 18,
+      "par": null,
+      "center": [
+        15.1076755734375,
+        58.30704142734375
+      ],
+      "counts": {
+        "courseId": "osm-relation-18504788",
+        "name": "Mjölby Golfklubb",
+        "osmId": "relation/18504788",
+        "holes": 18,
+        "greens": 18,
+        "tees": 29,
+        "bunkers": 24,
+        "waterHazards": 2,
+        "completeHoles": 18,
+        "needsManualReview": 0
+      }
+    },
+    {
+      "id": "osm-way-161856980",
+      "name": "Motala GK",
+      "osmId": "way/161856980",
+      "holes": 0,
+      "par": null,
+      "center": [
+        15.045935950641027,
+        58.51229389423077
+      ],
+      "counts": {
+        "courseId": "osm-way-161856980",
+        "name": "Motala GK",
+        "osmId": "way/161856980",
+        "holes": 0,
+        "greens": 0,
+        "tees": 0,
+        "bunkers": 0,
+        "waterHazards": 0,
+        "completeHoles": 0,
+        "needsManualReview": 0
+      }
+    },
+    {
+      "id": "osm-node-4296762176",
+      "name": "Norrköpings golfklubb",
+      "osmId": "node/4296762176",
+      "holes": 0,
+      "par": null,
+      "center": [
+        16.0994677,
+        58.5553961
+      ],
+      "counts": {
+        "courseId": "osm-node-4296762176",
+        "name": "Norrköpings golfklubb",
+        "osmId": "node/4296762176",
+        "holes": 0,
+        "greens": 0,
+        "tees": 0,
+        "bunkers": 0,
+        "waterHazards": 0,
+        "completeHoles": 0,
+        "needsManualReview": 0
+      }
+    },
+    {
+      "id": "osm-way-687779170",
+      "name": "Omberg Golf Resort",
+      "osmId": "way/687779170",
+      "holes": 0,
+      "par": null,
+      "center": [
+        14.620430714285714,
+        58.25773866904762
+      ],
+      "counts": {
+        "courseId": "osm-way-687779170",
+        "name": "Omberg Golf Resort",
+        "osmId": "way/687779170",
+        "holes": 0,
+        "greens": 23,
+        "tees": 57,
+        "bunkers": 30,
+        "waterHazards": 3,
+        "completeHoles": 0,
+        "needsManualReview": 0
+      }
+    },
+    {
+      "id": "osm-relation-4440686",
+      "name": "Söderköpings Golfklubb",
+      "osmId": "relation/4440686",
+      "holes": 0,
+      "par": "36 + 36 + 36",
+      "center": [
+        16.178179479130435,
+        58.495429548695654
+      ],
+      "counts": {
+        "courseId": "osm-relation-4440686",
+        "name": "Söderköpings Golfklubb",
+        "osmId": "relation/4440686",
+        "holes": 0,
+        "greens": 0,
+        "tees": 0,
+        "bunkers": 0,
+        "waterHazards": 0,
+        "completeHoles": 0,
+        "needsManualReview": 0
+      }
+    },
+    {
+      "id": "osm-way-170220627",
+      "name": "Vadstena Golfklubb",
+      "osmId": "way/170220627",
+      "holes": 1,
+      "par": "72",
+      "center": [
+        14.895345062962964,
+        58.42048130925926
+      ],
+      "counts": {
+        "courseId": "osm-way-170220627",
+        "name": "Vadstena Golfklubb",
+        "osmId": "way/170220627",
+        "holes": 1,
+        "greens": 6,
+        "tees": 5,
+        "bunkers": 0,
+        "waterHazards": 0,
+        "completeHoles": 0,
+        "needsManualReview": 1
+      }
+    },
+    {
+      "id": "osm-way-545588575",
+      "name": "Vreta Kloster golfklubb",
+      "osmId": "way/545588575",
+      "holes": 33,
+      "par": null,
+      "center": [
+        15.515103949253731,
+        58.527256995522386
+      ],
+      "counts": {
+        "courseId": "osm-way-545588575",
+        "name": "Vreta Kloster golfklubb",
+        "osmId": "way/545588575",
+        "holes": 33,
+        "greens": 37,
+        "tees": 24,
+        "bunkers": 39,
+        "waterHazards": 4,
+        "completeHoles": 9,
+        "needsManualReview": 24
+      }
+    },
+    {
+      "id": "osm-way-160437644",
+      "name": "Vårdsbergs Golfklubb",
+      "osmId": "way/160437644",
+      "holes": 18,
+      "par": null,
+      "center": [
+        15.748108209090908,
+        58.41221372424242
+      ],
+      "counts": {
+        "courseId": "osm-way-160437644",
+        "name": "Vårdsbergs Golfklubb",
+        "osmId": "way/160437644",
+        "holes": 18,
+        "greens": 11,
+        "tees": 14,
+        "bunkers": 13,
+        "waterHazards": 3,
+        "completeHoles": 4,
+        "needsManualReview": 14
+      }
+    },
+    {
+      "id": "osm-node-32141115",
+      "name": "Waldemarsviks Golfklubb",
+      "osmId": "node/32141115",
+      "holes": 0,
+      "par": null,
+      "center": [
+        16.7567953,
+        58.1847127
+      ],
+      "counts": {
+        "courseId": "osm-node-32141115",
+        "name": "Waldemarsviks Golfklubb",
+        "osmId": "node/32141115",
+        "holes": 0,
+        "greens": 0,
+        "tees": 0,
+        "bunkers": 0,
+        "waterHazards": 0,
+        "completeHoles": 0,
+        "needsManualReview": 0
+      }
+    },
+    {
+      "id": "osm-way-302520347",
+      "name": "Åtvidabergs Golfklubb",
+      "osmId": "way/302520347",
+      "holes": 0,
+      "par": null,
+      "center": [
+        15.971980302941176,
+        58.1975362882353
+      ],
+      "counts": {
+        "courseId": "osm-way-302520347",
+        "name": "Åtvidabergs Golfklubb",
+        "osmId": "way/302520347",
+        "holes": 0,
+        "greens": 0,
+        "tees": 0,
+        "bunkers": 0,
+        "waterHazards": 0,
+        "completeHoles": 0,
+        "needsManualReview": 0
+      }
+    }
+  ]
+}

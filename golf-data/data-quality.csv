@@ -1,0 +1,25 @@
+﻿name,courseId,osmId,holes,greens,tees,bunkers,waterHazards,completeHoles,needsManualReview
+Ingelsta Stadium Golf,osm-relation-1723097,relation/1723097,0,0,0,0,0,0,0
+Bråvikens Golfklubb,osm-relation-2624162,relation/2624162,0,0,0,0,0,0,0
+Linköpings Golfklubb,osm-relation-3725202,relation/3725202,18,20,4,51,3,3,15
+Söderköpings Golfklubb,osm-relation-4440686,relation/4440686,0,0,0,0,0,0,0
+Golfbana relation/7622455,osm-relation-7622455,relation/7622455,0,0,0,0,0,0,0
+Mjölby Golfklubb,osm-relation-18504788,relation/18504788,18,18,29,24,2,18,0
+Landeryds Golfklubb,osm-way-47050742,way/47050742,44,31,79,58,31,0,44
+Vårdsbergs Golfklubb,osm-way-160437644,way/160437644,18,11,14,13,3,4,14
+Motala GK,osm-way-161856980,way/161856980,0,0,0,0,0,0,0
+Vadstena Golfklubb,osm-way-170220627,way/170220627,1,6,5,0,0,0,1
+Flemminge GK,osm-way-202014678,way/202014678,9,9,7,35,0,8,1
+Mauritzberg,osm-way-297550172,way/297550172,2,5,11,5,0,1,1
+Åtvidabergs Golfklubb,osm-way-302520347,way/302520347,0,0,0,0,0,0,0
+Finspångs Golfklubb,osm-way-313256523,way/313256523,0,0,0,0,0,0,0
+Landeryds Golfklubb - Vesterbybanan,osm-way-361205880,way/361205880,0,0,0,0,0,0,0
+Vreta Kloster golfklubb,osm-way-545588575,way/545588575,33,37,24,39,4,9,24
+Omberg Golf Resort,osm-way-687779170,way/687779170,0,23,57,30,3,0,0
+Golfbana way/852548159,osm-way-852548159,way/852548159,0,0,0,0,0,0,0
+Golfbana way/1083250765,osm-way-1083250765,way/1083250765,0,0,0,0,0,0,0
+Golfbana way/1083250771,osm-way-1083250771,way/1083250771,0,0,0,0,0,0,0
+Bråvikens Golfklubb,osm-way-1519717514,way/1519717514,36,36,0,84,6,0,36
+Waldemarsviks Golfklubb,osm-node-32141115,node/32141115,0,0,0,0,0,0,0
+Bryttsätter Golfklubb,osm-node-415395765,node/415395765,0,0,0,0,0,0,0
+Norrköpings golfklubb,osm-node-4296762176,node/4296762176,0,0,0,0,0,0,0
